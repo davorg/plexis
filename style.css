@@ -49,6 +49,12 @@ a.easter-egg {
   text-decoration: none;
 }
 
+a.easter-egg:hover {
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background: #111;
